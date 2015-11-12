@@ -228,7 +228,7 @@ function create_config( )
       "youtube",
       "media_handler",
       "moderation"},
-    sudo_users = {tork.wixsrd,70480064},
+    sudo_users = {tork.wizard,70480064},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
