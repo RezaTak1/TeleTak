@@ -1,7 +1,7 @@
 do
 
 local NUM_MSG_MAX = 2
-local TIME_CHECK = 2 -- seconds
+local TIME_CHECK = 1 -- seconds
 
 
 
